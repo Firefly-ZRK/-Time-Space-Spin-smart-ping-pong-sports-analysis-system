@@ -29,7 +29,7 @@
 *   **数据库**: MySQL 🗄️
 *   **平台**: Windows, Android 🖥️📱
 
-## 项目展示
+## 项目部分展示
 ![Page 1](https://raw.githubusercontent.com/Firefly-ZRK/-Time-Space-Spin-smart-ping-pong-sports-analysis-system/main/JPG/%E2%80%9C%E6%97%B6%E7%A9%BA%E6%97%8B%E9%87%8F%E2%80%9D%E6%99%BA%E8%83%BD%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F_page-0001.jpg)
 ![Page 4](https://raw.githubusercontent.com/Firefly-ZRK/-Time-Space-Spin-smart-ping-pong-sports-analysis-system/main/JPG/%E2%80%9C%E6%97%B6%E7%A9%BA%E6%97%8B%E9%87%8F%E2%80%9D%E6%99%BA%E8%83%BD%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F_page-0004.jpg)
 ![Page 7](https://raw.githubusercontent.com/Firefly-ZRK/-Time-Space-Spin-smart-ping-pong-sports-analysis-system/main/JPG/%E2%80%9C%E6%97%B6%E7%A9%BA%E6%97%8B%E9%87%8F%E2%80%9D%E6%99%BA%E8%83%BD%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F_page-0007.jpg)

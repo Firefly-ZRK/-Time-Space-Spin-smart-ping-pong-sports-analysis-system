@@ -40,3 +40,6 @@
 ![Page 39](https://github.com/Firefly-ZRK/-Time-Space-Spin-smart-ping-pong-sports-analysis-system/blob/main/JPG/%E2%80%9C%E6%97%B6%E7%A9%BA%E6%97%8B%E9%87%8F%E2%80%9D%E6%99%BA%E8%83%BD%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F_page-0039.jpg)
 ![Page 11](https://raw.githubusercontent.com/Firefly-ZRK/-Time-Space-Spin-smart-ping-pong-sports-analysis-system/main/JPG/%E2%80%9C%E6%97%B6%E7%A9%BA%E6%97%8B%E9%87%8F%E2%80%9D%E6%99%BA%E8%83%BD%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F_page-0011.jpg)
 ![Page 14](https://raw.githubusercontent.com/Firefly-ZRK/-Time-Space-Spin-smart-ping-pong-sports-analysis-system/main/JPG/%E2%80%9C%E6%97%B6%E7%A9%BA%E6%97%8B%E9%87%8F%E2%80%9D%E6%99%BA%E8%83%BD%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F_page-0014.jpg)
+
+## 数据集获取 📥
+### 集P2ANet可以联系博主: 3453743484@qq.com 📧
